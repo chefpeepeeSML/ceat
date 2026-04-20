@@ -5,4 +5,17 @@ you could like open a book, look at the examples, touch grass, idk i just got he
 ## :3
 so theres gonna be some files, uh  
 yeah so like theres probably something [here](eaw.md), [here](eau.md), [here](eaa.md), or [here](ear.md).  
-maybe not tho, idk i just got here.
+maybe not tho, idk i just got here.  
+
+# how start???? yo no se
+First decide you wanna install ceat engine (yo soy windows) - you should probably do this on Linux tho  
+once you've made your decision... are you sure?  
+clone https://github.com/viylouu/ceat  
+then run the build commands located in the readme  
+
+## wanna run your first thing?
+go [here](hello.md)  
+
+> DO NOT GO [HERE](house.md)  
+> unless you want rigor mortis  
+    > gee i dont know rick  

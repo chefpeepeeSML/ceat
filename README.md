@@ -1,3 +1,6 @@
+# archive
+this project has been migrated to codeberg. you can find it [here](https://codeberg.org/viylouu/eat).  
+
 # ceat
 ceat is a game engine that was originally a direct translation of [eat-engine](https://github.com/viylouu/eat-engine/tree/main) to c.  
 it was made to be used in other languages, and also has bindings for odin again so you can just use this instead since its newer and faster.  
@@ -10,12 +13,11 @@ it is the (hopefully) final game engine i will have to make.
 ## building
 to build ceat, you can use cmake.  
 ```bash
-mkdir build
-cmake -B build
-cmake --build build
+zig build shaders # only needed on shader update, first run, or when using vulkan
+zig build
 ```
 this will create either a `libceat.a` file or a `ceat.lib` file in the build folder  
-(and also build the examples)
+to build examples, run `zig build examples`.  
 
 ## docs
 if you dont know how to do stuff see the [docs](https://viylouu.github.io/ceat)
